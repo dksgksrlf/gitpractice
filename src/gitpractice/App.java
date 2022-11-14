@@ -7,6 +7,7 @@ public class App {
 		System.out.println("추가내용");
 		System.out.println("실행1");
 		System.out.println("실행2");
+		System.out.println("실행3");
 	}
 
 }
