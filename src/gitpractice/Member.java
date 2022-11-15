@@ -1,5 +1,5 @@
 package gitpractice;
 
-public class Member2 {
+public class Member {
 
 }
